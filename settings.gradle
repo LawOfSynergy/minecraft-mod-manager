@@ -1,0 +1,5 @@
+rootProject.name = 'mod-manager'
+include 'mod-manager-core'
+include 'mod-local-server'
+include 'mod-repo'
+

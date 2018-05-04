@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mod-local-server_main" target="1.8" />
+      <module name="mod-local-server_test" target="1.8" />
+      <module name="mod-manager-core_main" target="1.8" />
+      <module name="mod-manager-core_test" target="1.8" />
+      <module name="mod-manager_main" target="1.8" />
+      <module name="mod-manager_test" target="1.8" />
+      <module name="mod-repo_main" target="1.8" />
+      <module name="mod-repo_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-local-server.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-local-server.iml" group="mod-local-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-local-server/mod-local-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-local-server/mod-local-server_main.iml" group="mod-local-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-local-server/mod-local-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-local-server/mod-local-server_test.iml" group="mod-local-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager-core.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager-core.iml" group="mod-manager-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager-core/mod-manager-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager-core/mod-manager-core_main.iml" group="mod-manager-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager-core/mod-manager-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager-core/mod-manager-core_test.iml" group="mod-manager-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager_main.iml" group="mod-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-manager_test.iml" group="mod-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-repo.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-repo.iml" group="mod-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-repo/mod-repo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-repo/mod-repo_main.iml" group="mod-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-repo/mod-repo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-repo/mod-repo_test.iml" group="mod-repo" />
+    </modules>
+  </component>
+</project>
